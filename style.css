@@ -1,0 +1,33 @@
+.logo{
+    background-color: rgb(155, 107, 155);
+    margin:auto;
+    width:90%;
+    height:750px;
+    text-align: center;
+    border: 1px solid #CCC;
+    border-radius: 3em;
+}
+.logo h{
+    font-size:2vw;
+    color: black;
+}
+.main{
+    background-color:rgb(134, 113, 113);
+    height:600px;
+    width:75%;
+    text-align: center;
+    margin:auto;
+    border: 1px solid #CCC;
+    border-radius: 1em;
+
+}
+.main form{
+   margin:40px;
+    text-align:left;
+    font-size:3vw;
+}
+.main form input{
+    width:90%;
+    height:30px;
+    font-size:1vw;
+}
